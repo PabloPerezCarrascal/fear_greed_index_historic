@@ -1,0 +1,249 @@
+{
+    "2011": {
+        "1": {
+            "17": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "21": "Washington's Birthday"
+        },
+        "4": {
+            "22": "Good Friday"
+        },
+        "5": {
+            "30": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "5": "Labor Day"
+        },
+        "11": {
+            "24": "Thanksgiving Day"
+        },
+        "12": {
+            "26": "Christmas Day"
+        }
+    },
+    "2012": {
+        "1": {
+            "2": "New Years Day",
+            "16": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "20": "Washington's Birthday"
+        },
+        "4": {
+            "6": "Good Friday"
+        },
+        "5": {
+            "28": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "3": "Labor Day"
+        },
+        "10": {
+            "29": "Market Holiday",
+            "30": "Market Holiday"
+        },
+        "11": {
+            "22": "Thanksgiving Day"
+        },
+        "12": {
+            "25": "Christmas Day"
+        }
+    },
+    "2013": {
+        "1": {
+            "1": "New Years Day",
+            "21": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "18": "Washington's Birthday"
+        },
+        "3": {
+            "29": "Good Friday"
+        },
+        "5": {
+            "27": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "2": "Labor Day"
+        },
+        "11": {
+            "28": "Thanksgiving Day"
+        },
+        "12": {
+            "25": "Christmas Day"
+        }
+    },
+    "2014": {
+        "1": {
+            "1": "New Years Day",
+            "20": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "17": "Washington's Birthday"
+        },
+        "4": {
+            "18": "Good Friday"
+        },
+        "5": {
+            "26": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "1": "Labor Day"
+        },
+        "11": {
+            "27": "Thanksgiving Day"
+        },
+        "12": {
+            "25": "Christmas Day"
+        }
+    },
+    "2015": {
+        "1": {
+            "1": "New Years Day",
+            "19": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "16": "Washington's Birthday"
+        },
+        "4": {
+            "3": "Good Friday"
+        },
+        "5": {
+            "25": "Memorial Day"
+        },
+        "7": {
+            "3": "Independence Day (Observed)"
+        },
+        "9": {
+            "7": "Labor Day"
+        },
+        "11": {
+            "26": "Thanksgiving Day"
+        },
+        "12": {
+            "25": "Christmas Day"
+        }
+    },
+    "2016": {
+        "1": {
+            "1": "New Years Day",
+            "18": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "15": "Washington's Birthday"
+        },
+        "3": {
+            "25": "Good Friday"
+        },
+        "5": {
+            "30": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "5": "Labor Day"
+        },
+        "11": {
+            "24": "Thanksgiving Day"
+        },
+        "12": {
+            "26": "Christmas Day (Observed)"
+        }
+    },
+    "2017": {
+        "1": {
+            "2": "New Years Day (Observed)",
+            "16": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "20": "Washington's Birthday"
+        },
+        "4": {
+            "14": "Good Friday"
+        },
+        "5": {
+            "29": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "4": "Labor Day"
+        },
+        "11": {
+            "23": "Thanksgiving Day"
+        },
+        "12": {
+            "25": "Christmas Day"
+        }
+    },
+    "2018": {
+        "1": {
+            "1": "New Years Day",
+            "15": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "19": "Washington's Birthday"
+        },
+        "3": {
+            "30": "Good Friday"
+        },
+        "5": {
+            "28": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "3": "Labor Day"
+        },
+        "11": {
+            "22": "Thanksgiving Day"
+        },
+        "12": {
+            "5": "George Bush Memorial Observance",
+            "25": "Christmas Day"
+        }
+    },
+    "2019": {
+        "1": {
+            "1": "New Years Day",
+            "21": "Martin Luther King, Jr. Day"
+        },
+        "2": {
+            "18": "Washington's Birthday"
+        },
+        "4": {
+            "19": "Good Friday"
+        },
+        "5": {
+            "27": "Memorial Day"
+        },
+        "7": {
+            "4": "Independence Day"
+        },
+        "9": {
+            "2": "Labor Day"
+        },
+        "11": {
+            "28": "Thanksgiving Day"
+        },
+        "12": {
+            "25": "Christmas Day"
+        }
+    }
+}
